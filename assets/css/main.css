@@ -2330,6 +2330,18 @@
 			.image.fit img {
 				width: 100%;
 			}
+		.image.profile {
+			display: block;
+			margin-top: 0;
+			margin-right: 2em;
+			margin-left: 10em;
+			margin-bottom: 2em;
+			width: 100%;
+		}
+
+		.image.profile img {
+			width: 50%;
+		}
 
 /* List */
 
