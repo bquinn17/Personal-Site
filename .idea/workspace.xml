@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7020b434-c9ac-41c5-8ddc-7e5d42b9fa07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="$PROJECT_DIR$/images/pic01.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Personal Site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,7 +206,7 @@
       <workItem from="1475629766657" duration="602000" />
       <workItem from="1476296027320" duration="80000" />
       <workItem from="1477099279558" duration="690000" />
-      <workItem from="1477250755023" duration="217000" />
+      <workItem from="1477250755023" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="Corrected grammar mistake in more about me section.">
       <created>1477099341581</created>
@@ -217,11 +215,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477099341582</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Compress images for optimization, change text on button.">
+      <created>1477251020714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477251020714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9812000" />
+    <option name="totallyTimeSpent" value="9863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2582" height="1562" extended-state="6" />
@@ -258,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Corrected grammar mistake in more about me section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected grammar mistake in more about me section." />
+    <MESSAGE value="Compress images for optimization, change text on button." />
+    <option name="LAST_COMMIT_MESSAGE" value="Compress images for optimization, change text on button." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
