@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7020b434-c9ac-41c5-8ddc-7e5d42b9fa07" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Drone.PNG" afterPath="$PROJECT_DIR$/images/Drone.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/spr.PNG" afterPath="$PROJECT_DIR$/images/spr.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.pdf" afterPath="$PROJECT_DIR$/resume.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Personal Site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="105" column="146" selection-start-line="105" selection-start-column="146" selection-end-line="105" selection-end-column="146" />
+            <state relative-caret-position="650">
+              <caret line="98" column="33" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -206,7 +210,7 @@
       <workItem from="1475629766657" duration="602000" />
       <workItem from="1476296027320" duration="80000" />
       <workItem from="1477099279558" duration="690000" />
-      <workItem from="1477250755023" duration="2908000" />
+      <workItem from="1477250755023" duration="3680000" />
     </task>
     <task id="LOCAL-00001" summary="Corrected grammar mistake in more about me section.">
       <created>1477099341581</created>
@@ -250,11 +254,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477277920269</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Compress background image and remove unnecessary files.">
+      <created>1477277924632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1477277924632</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12503000" />
+    <option name="totallyTimeSpent" value="13275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2582" height="1562" extended-state="6" />
@@ -422,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="105" column="146" selection-start-line="105" selection-start-column="146" selection-end-line="105" selection-end-column="146" />
+        <state relative-caret-position="650">
+          <caret line="98" column="33" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
           <folding />
         </state>
       </provider>
