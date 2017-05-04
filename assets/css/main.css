@@ -9,6 +9,11 @@
 	Edited by Bryan Quinn
 */
 
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 #nav {
 	margin-top: 100px;
 	z-index: 0;
